@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prabanchan
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently doing Masters in Data Analytics
-- 💞️ I’m looking to collaborate on Data Science projects 
+- 👀 Interested in Data Science
+- 🌱 Currently doing Masters in Data Analytics
+- 💞️ Looking to collaborate on Data Science projects 
 - 📫 Reach me: shiksha.prabanchan@gmail.com
 
 <!---
